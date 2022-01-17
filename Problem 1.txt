@@ -45,5 +45,6 @@ SELECT  SomeText, SomeDate FROM SomeTable
 WHERE SomeDate >='1980-01-01'
 AND SomeDate <= '1999-01-01'
 
-
+--adding new lines of code to make it better
+--use capital letter for each SQL keyword 
 
